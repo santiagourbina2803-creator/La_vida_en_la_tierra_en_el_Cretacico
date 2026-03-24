@@ -13,9 +13,15 @@ Las primeras plantas con flores aparecieron diferenciandose de las gimnospermas.
 |Estambres y pistilo|Estrobilo|
 |Rapido desarrollo|Desarrollo lento|
 
-**La extinción de los dinosaurios**
+
+## **La extinción de los dinosaurios**
+
+![Image](https://github.com/user-attachments/assets/f1c67809-e68b-49b0-b52c-7483e14d81c3)
+
 ```
-![Image](https://muyinteresante.okdiario.com/wp-content/uploads/sites/5/2022/10/13/63474c9c5bcc5.jpeg)
+=(
 ```
+
+Causada por el impacto de un asteroide de grandes dimensiones lo que genero consecuencias posteriores como el bloqueo de luz solar evitando la fotosíntesis. Esto permitio la proliferación de los mamiferos, que evolucionaron desde los [sinápsidos](https://www.inaturalist.org/taxa/1365628-Synapsida) (Pelicosaurios y Terápsidos).
 
 
